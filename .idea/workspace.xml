@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba73778b-7dd9-4689-a620-49554e65efe7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Auto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images2/images2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images2/images28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Website Interaction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images3/images2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images3/images39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images5/images15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images6/images10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images6/images11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images6/images12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images6/images13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images6/images14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
